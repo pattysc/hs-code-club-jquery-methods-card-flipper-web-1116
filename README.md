@@ -9,7 +9,7 @@ Today, you'll be building out a web app for viewing virtual trading cards. You'l
 ## Instructions
 + Look in the `index.html` file. There's a `<div>` with the class of `card` which acts as a container. 
 + Add text and images to the front and back of the cards - these are identified by `<figure>` elements and classes. 
-+ In the `card.js` file, add a jQuery event handler for clicking the div with class of `card`. 
++ In the `card.js` file (`public/javascripts/card.js`), add a jQuery event handler for clicking the div with class of `card`. 
 + If the card is on the front, it should add the class of "flipped". If it's on the back, it should remove that class. See the hints below. 
 
 ## Bonus
