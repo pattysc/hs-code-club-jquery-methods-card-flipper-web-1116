@@ -1,5 +1,5 @@
 $( function(){
-	$( ".player-card" ).on("click", function(){
+	$( ".card" ).on("click", function(){
 		$( this ).toggleClass( "flipped" );
 	})
  })
