@@ -1,6 +1,6 @@
 # Card Flipper
 
-Build out a virutal trading card app using jQuery! 
+Build out a virtual trading card app using jQuery! The trading cards can be of whatever you want - players from your favorite sports, characters from your favorite movies, puppies, etc. 
 
 ## Introduction
 
