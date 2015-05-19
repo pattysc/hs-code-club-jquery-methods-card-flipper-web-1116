@@ -28,6 +28,6 @@ figure img {
   background-color: #faebd7;
 }
 
-.card.flipped {
+.card .flipped {
   transform: rotateY( 180deg );
 }
