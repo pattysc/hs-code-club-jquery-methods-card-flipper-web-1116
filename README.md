@@ -12,6 +12,8 @@ Today, you'll be building out a web app for viewing virtual trading cards. You'l
 + In the `card.js` file, add a jQuery event handler for clicking the div with class of `card`. 
 + If the card is on the front, it should add the class of "flipped". If it's on the back, it should remove that class. See the hints below. 
 
+To view your index page from Nitrous, start a python server - run `python -m SimpleHTTPServer 3000` from the terminal and preview on port 300)!
+
 ## Bonus
 Add multiple cards to the page. Make sure that only the card you click on flips over! 
 
