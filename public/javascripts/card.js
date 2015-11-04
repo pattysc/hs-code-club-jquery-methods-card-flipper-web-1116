@@ -1,3 +1,0 @@
-$( function(){
-	// your solution here!
- })

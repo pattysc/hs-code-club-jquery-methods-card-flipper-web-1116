@@ -1,11 +1,9 @@
 tags:
   - jQuery
   - kids
-languages:
   - HTML
   - CSS
-  - JavaScript
+languages:
   - jQuery
-level: 2
 type:
-  - to do
+  - code club

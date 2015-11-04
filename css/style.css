@@ -1,0 +1,94 @@
+#card-one { 
+  width: 200px;
+  display: inline-block;
+  height: 300px;
+  margin: 70px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+
+#card-one figure {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+#card-one .front {
+  background-color: #faebd7;
+}
+#card-one .back {
+  transform: rotateY( 180deg );
+  background-color: #faebd7;
+}
+
+#card-one.flipped {
+  transform: rotateY( 180deg );
+}
+
+#card-two { 
+  width: 200px;
+  display: inline-block;
+  height: 300px;
+  margin: 70px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+
+#card-two figure {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+#card-two .front {
+  background-color: #faebd7;
+}
+#card-two .back {
+  transform: rotateY( 180deg );
+  background-color: #faebd7;
+}
+
+#card-two.flipped {
+  transform: rotateY( 180deg );
+}
+
+#card-three { 
+  width: 200px;
+  display: inline-block;
+  height: 300px;
+  margin: 70px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+
+#card-three figure {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+#card-three .front {
+  background-color: #faebd7;
+}
+#card-three .back {
+  transform: rotateY( 180deg );
+  background-color: #faebd7;
+}
+
+#card-three.flipped {
+  transform: rotateY( 180deg );
+}
+
+figure img {
+  width: 70%;
+  margin: 15%;
+}
