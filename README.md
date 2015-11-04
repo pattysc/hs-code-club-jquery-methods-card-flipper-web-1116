@@ -32,3 +32,12 @@ Add styling in `css/style.css` and make it look pretty!
 ## Hints
 + [jQuery Toggle Class](http://api.jquery.com/toggleclass/)
 + [jQuery - what is $(this)?](http://www.learningjquery.com/2007/08/what-is-this)
+
+
+## Share Share Share!
+
+Don't forget to take a screen shot of your code or playing cards and share with **\#flatironcodeclub** and **\#jquerycardflipper**
+
+## Reminder
+
+Don't forget to shut down your server by clicking `control` and `c`.
