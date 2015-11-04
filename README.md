@@ -23,7 +23,13 @@ Go ahead and add text and images to the front and back of the cards - these are 
 ### Step 3: 
 + In the `js/card.js` file, add a jQuery event handler for clicking the div with id of `card-two` and another click event for the div with the id `card-three`. We've set up the first click event for you.
 
-The click event should use the `toggleClass` method. If the card is on the front, it should add the class of `flipped`. If it's on the back, it should remove that class. See the hints below. 
+The click event should use the `toggleClass` method. If the card is on the front, it should add the class of `flipped`. If it's on the back, it should remove that class.
+
+Save your work and refresh in the browser. Try clicking the cards and watch them flip!
+
+### Step 4:
+
+Save your work and enter `learn submit` in terminal enter `learn submit` to complete the lab.
  
 
 ## Bonus
