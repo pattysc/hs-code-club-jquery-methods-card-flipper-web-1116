@@ -47,3 +47,5 @@ Don't forget to take a screen shot of your code or playing cards and share with 
 ## Reminder
 
 Don't forget to shut down your server by clicking `control` and `c`.
+
+<a href='https://learn.co/lessons/hs-code-club-jquery-methods-card-flipper' data-visibility='hidden'>View this lesson on Learn.co</a>
