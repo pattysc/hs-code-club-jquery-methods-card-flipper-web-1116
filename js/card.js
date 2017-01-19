@@ -1,11 +1,14 @@
 $( function(){
 
   $( "#card-one").click(function(){
-    //Use toggleClass method here
+    $("#card-one").toggleClass("flipped")
   });
 
+  $( "#card-two").click(function(){
+    $("#card-two").toggleClass("flipped")
+  });
 
-	// code click event for card-two here
-
-  // code click event for card-three here
+  $( "#card-three").click(function(){
+      $("#card-three").toggleClass("flipped")
+    });
  })
